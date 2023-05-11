@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29144236.css",
+    "main.js": "/static/js/main.25efa2ec.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/counter-timer-img.png": "/static/media/counter-timer-img.67d2c384a25e17a8a142.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/diamadres.jpg": "/static/media/diamadres.7043a41d80d1d40de812.jpg",
+    "static/media/demaimgs.png": "/static/media/demaimgs.b35f7a015bbaa97418ef.png",
+    "static/media/hero-img.png": "/static/media/hero-img.eca83d8eb65efa788a6a.png",
+    "static/media/cintillo-Mayo23-novedades.jpg": "/static/media/cintillo-Mayo23-novedades.61979d0dcca98d943cfa.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/cintillo-medicinal-d-v2.jpg": "/static/media/cintillo-medicinal-d-v2.ab1ce7c9cf8d27d9264a.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "index.html": "/index.html",
+    "main.29144236.css.map": "/static/css/main.29144236.css.map",
+    "main.25efa2ec.js.map": "/static/js/main.25efa2ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29144236.css",
+    "static/js/main.25efa2ec.js"
+  ]
+}
